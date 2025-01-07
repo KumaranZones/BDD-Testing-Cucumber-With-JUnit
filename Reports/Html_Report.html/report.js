@@ -143,133 +143,133 @@ formatter.match({
   "location": "StepDefinitionClass.the_User_Launch_The_Blogspot_Url()"
 });
 formatter.result({
-  "duration": 5128866200,
+  "duration": 988205100,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Collects_The_Count_Of_ATags_From_The_DOM_Structure()"
 });
 formatter.result({
-  "duration": 58613000,
+  "duration": 3123185100,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Collects_The_Count_Of_InputTags_From_The_DOM_Structure()"
 });
 formatter.result({
-  "duration": 20336600,
+  "duration": 39714500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Collects_The_Count_Of_ButtonTags_From_The_DOM_Structure()"
 });
 formatter.result({
-  "duration": 30543199,
+  "duration": 27543800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Collects_The_Count_Of_OptionTags_From_The_DOM_Structure()"
 });
 formatter.result({
-  "duration": 29682401,
+  "duration": 28452400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Collects_The_Count_Of_LiTags_From_The_DOM_Structure()"
 });
 formatter.result({
-  "duration": 38791401,
+  "duration": 24672800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Collects_The_Count_Of_The_UlTags_From_The_DOM_Structure()"
 });
 formatter.result({
-  "duration": 27619900,
+  "duration": 30573700,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Collects_The_Count_Of_TheDivTags_From_The_DOM_Structure()"
 });
 formatter.result({
-  "duration": 36105600,
+  "duration": 45670000,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Collects_The_Count_Of_HtmlTags_From_The_DOM_Structure()"
 });
 formatter.result({
-  "duration": 34022400,
+  "duration": 29203300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Collects_The_Count_Of_BodyTags_From_The_DOM_Structure()"
 });
 formatter.result({
-  "duration": 14499100,
+  "duration": 26235600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Collects_The_Count_Of_SelectTags_From_The_DOM_Structure()"
 });
 formatter.result({
-  "duration": 28245299,
+  "duration": 16801600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Collects_The_Count_Of_TbodyTags_From_The_DOM_Structure()"
 });
 formatter.result({
-  "duration": 21493699,
+  "duration": 36848200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Collects_The_Count_Of_TheadTags_From_The_DOM_Structure()"
 });
 formatter.result({
-  "duration": 48416700,
+  "duration": 23046600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Collects_The_Count_Of_TrTags_From_The_DOM_Structure()"
 });
 formatter.result({
-  "duration": 34024500,
+  "duration": 15747900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Collects_The_Count_Of_TdTags_From_The_DOM_Structure()"
 });
 formatter.result({
-  "duration": 26224601,
+  "duration": 39618000,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Collects_The_Count_Of_FrameTags_From_The_DOM_Structure()"
 });
 formatter.result({
-  "duration": 25081910600,
+  "duration": 25069992700,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Collects_The_Count_Of_IFrameTags_From_The_DOM_Structure()"
 });
 formatter.result({
-  "duration": 25059349500,
+  "duration": 25053005600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Collects_The_Count_Of_TableTags_From_The_DOM_Structure()"
 });
 formatter.result({
-  "duration": 39527500,
+  "duration": 38528000,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Collects_The_Count_Of_SvgTags_From_The_DOM_Structure()"
 });
 formatter.result({
-  "duration": 27820699,
+  "duration": 30078400,
   "status": "passed"
 });
 formatter.match({
@@ -282,42 +282,42 @@ formatter.match({
   "location": "StepDefinitionClass.the_User_Collects_The_Count_Of_H_Tags_From_The_DOM_Structure(int)"
 });
 formatter.result({
-  "duration": 27536901,
+  "duration": 24650600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Collects_The_Count_Of_SpanTags_From_The_DOM_Structure()"
 });
 formatter.result({
-  "duration": 34229200,
+  "duration": 64055400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Collects_The_Count_Of_FormTags_From_The_DOM_Structure()"
 });
 formatter.result({
-  "duration": 25961800,
+  "duration": 85279500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Collects_The_Count_Of_ScriptTags_From_The_DOM_Structure()"
 });
 formatter.result({
-  "duration": 108494000,
+  "duration": 68175800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Collects_The_Count_Of_MainTags_From_The_DOM_Structure()"
 });
 formatter.result({
-  "duration": 25060019100,
+  "duration": 25063769900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Collect_The_All_Text_Of_The_Link_From_Webpage_And_Navigate_To_TesxtFields_Module()"
 });
 formatter.result({
-  "duration": 1404223599,
+  "duration": 1436991400,
   "status": "passed"
 });
 formatter.scenario({
@@ -412,112 +412,112 @@ formatter.match({
   "location": "StepDefinitionClass.the_User_Enters_A_Name_In_The_Name_Field()"
 });
 formatter.result({
-  "duration": 188558500,
+  "duration": 206213400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Enters_An_Email_In_The_Email_Field()"
 });
 formatter.result({
-  "duration": 208024600,
+  "duration": 165502200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Enters_A_Phone_Number_In_The_Phone_Number_Field()"
 });
 formatter.result({
-  "duration": 135167400,
+  "duration": 193917500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Enters_An_Address_In_The_Address_Field()"
 });
 formatter.result({
-  "duration": 164309400,
+  "duration": 170778600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Male_Radio_Button()"
 });
 formatter.result({
-  "duration": 194134401,
+  "duration": 135025300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Day_Check_Box()"
 });
 formatter.result({
-  "duration": 160688200,
+  "duration": 140164400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Retrive_The_Name_Field_Attribute_Value()"
 });
 formatter.result({
-  "duration": 36445100,
+  "duration": 26169400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Retrive_The_Email_Field_Attribute_Value()"
 });
 formatter.result({
-  "duration": 89311700,
+  "duration": 53321000,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Retrive_The_Phone_Number_Field_Attribute_Value()"
 });
 formatter.result({
-  "duration": 62846800,
+  "duration": 85070700,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Retrive_The_Address_Field_Attribute_Value()"
 });
 formatter.result({
-  "duration": 60069600,
+  "duration": 68351600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Verify_The_Male_Radiobutton_Is_Displayed_Or_Not()"
 });
 formatter.result({
-  "duration": 71250900,
+  "duration": 93070900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Verify_The_Male_Radiobutton_Is_Enabled_Or_Not()"
 });
 formatter.result({
-  "duration": 39921499,
+  "duration": 46305300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Verify_The_Male_Radiobutton_Is_Selected_Or_Not()"
 });
 formatter.result({
-  "duration": 43354100,
+  "duration": 48684500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Verify_The_Friday_Check_Box_Is_Displayed_Or_Not()"
 });
 formatter.result({
-  "duration": 68448899,
+  "duration": 55601200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Verify_The_Friday_Check_Box_Is_Enabled_Or_Not()"
 });
 formatter.result({
-  "duration": 186298800,
+  "duration": 87927500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Verify_The_Friday_Check_Box_Is_Selected_Or_Not_and_User_Navigate_To_The_Dropdown_Module()"
 });
 formatter.result({
-  "duration": 38166601,
+  "duration": 45060400,
   "status": "passed"
 });
 formatter.scenario({
@@ -582,70 +582,70 @@ formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Australia_Country_From_The_Countries_Dropdown()"
 });
 formatter.result({
-  "duration": 250924899,
+  "duration": 224166000,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Countries_Dropdown()"
 });
 formatter.result({
-  "duration": 197671000,
+  "duration": 160447300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_China_Country_From_The_Countries_Dropdown()"
 });
 formatter.result({
-  "duration": 380230699,
+  "duration": 205512200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_get_The_All_Options_From_The_Country_Dropdown()"
 });
 formatter.result({
-  "duration": 159018501,
+  "duration": 168949500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Green_Colour_From_The_Colours_Dropdown()"
 });
 formatter.result({
-  "duration": 282024800,
+  "duration": 272934900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_White_Colour_From_The_Colours_Dropdown()"
 });
 formatter.result({
-  "duration": 190726299,
+  "duration": 161837500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_get_The_All_Options_From_The_Colours_Dropdown()"
 });
 formatter.result({
-  "duration": 163387800,
+  "duration": 159423400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Cat_From_The_Animals_Dropdown()"
 });
 formatter.result({
-  "duration": 189130499,
+  "duration": 175543000,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Elephant_From_The_Animals_Dropdown()"
 });
 formatter.result({
-  "duration": 151968400,
+  "duration": 168431000,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_perform_Scrolldown_On_The_Webpage_And_User_Want_To_Navigate_The_Datepicker_Module()"
 });
 formatter.result({
-  "duration": 417821000,
+  "duration": 564634900,
   "status": "passed"
 });
 formatter.scenario({
@@ -745,119 +745,119 @@ formatter.match({
   "location": "StepDefinitionClass.the_User_First_Click_The_Datepicker_Field()"
 });
 formatter.result({
-  "duration": 191928200,
+  "duration": 206893100,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Month_and_Year_From_The_First_Datepicker_Table()"
 });
 formatter.result({
-  "duration": 1362082500,
+  "duration": 1526711900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Date_From_The_Datepicker_Table()"
 });
 formatter.result({
-  "duration": 317468100,
+  "duration": 389539800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Second_Datepicker_Field()"
 });
 formatter.result({
-  "duration": 278729199,
+  "duration": 267656900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Month_From_The_Second_Datepicker_Table()"
 });
 formatter.result({
-  "duration": 231335501,
+  "duration": 230530200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Year_From_The_Second_Datepicker_Table()"
 });
 formatter.result({
-  "duration": 150336700,
+  "duration": 156425100,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Date_From_The_Second_Datepicker_Table()"
 });
 formatter.result({
-  "duration": 307685000,
+  "duration": 233905100,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Clicks_The_Post_Adom_Link_For_The_First_Time_Opening_a_New_Window()"
 });
 formatter.result({
-  "duration": 269102200,
+  "duration": 237728600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Handle_The_New_Window()"
 });
 formatter.result({
-  "duration": 31382300,
+  "duration": 31103900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Scroll_Into_Webpage_Bottom()"
 });
 formatter.result({
-  "duration": 12423182000,
+  "duration": 1495719300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Close_The_Child_Window()"
 });
 formatter.result({
-  "duration": 89665900,
+  "duration": 79128800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Returns_To_The_Parent_Window_and_Clicks_The_Post_Adom_Link_again()"
 });
 formatter.result({
-  "duration": 183948900,
+  "duration": 218161500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Handles_The_New_Window_Again()"
 });
 formatter.result({
-  "duration": 88868400,
+  "duration": 23651000,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Scrolls_To_The_Webpage_Bottom_Again()"
 });
 formatter.result({
-  "duration": 3141462000,
+  "duration": 1435379400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Closes_The_Child_Window_Again()"
 });
 formatter.result({
-  "duration": 41824900,
+  "duration": 38638300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Returns_To_The_Parent_Window_Again()"
 });
 formatter.result({
-  "duration": 18004201,
+  "duration": 10452500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Get_The_Post_Adom_Text_and_Navigates_To_The_Webtable_Module()"
 });
 formatter.result({
-  "duration": 57042001,
+  "duration": 48807500,
   "status": "passed"
 });
 formatter.scenario({
@@ -982,154 +982,154 @@ formatter.match({
   "location": "StepDefinitionClass.the_User_Mouse_Hover_Over_The_First_Upload_File_button()"
 });
 formatter.result({
-  "duration": 239372799,
+  "duration": 214652200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_First_Upload_File_button()"
 });
 formatter.result({
-  "duration": 178614000,
+  "duration": 198388100,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Mouse_Hover_Over_The_Second_Upload_File_button()"
 });
 formatter.result({
-  "duration": 182100100,
+  "duration": 181545100,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Second_Upload_File_button()"
 });
 formatter.result({
-  "duration": 193773401,
+  "duration": 135290600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Scroll_Down_On_The_Webpage_Using_Javascript_Executor()"
 });
 formatter.result({
-  "duration": 16453899,
+  "duration": 36287600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Retrieve_The_First_Webtable_Headers_Data()"
 });
 formatter.result({
-  "duration": 73550199,
+  "duration": 76009800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Retrieve_The_First_Webtable_Entire_Data()"
 });
 formatter.result({
-  "duration": 443137899,
+  "duration": 523872800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Retrieve_A_Single_Data_From_First_webtable()"
 });
 formatter.result({
-  "duration": 46070499,
+  "duration": 55950600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Retrieve_The_Entire_Column_Count_Of_The_First_webtable()"
 });
 formatter.result({
-  "duration": 34686000,
+  "duration": 24644300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Retrieve_The_Entire_Row_Count_Of_The_First_webtable()"
 });
 formatter.result({
-  "duration": 22430199,
+  "duration": 114323100,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Retrieve_The_Entire_Data_Count_Of_The_First_webtable()"
 });
 formatter.result({
-  "duration": 32793000,
+  "duration": 109648100,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Retrieve_The_Specific_Row_Count_Of_The_First_webtable()"
 });
 formatter.result({
-  "duration": 94421700,
+  "duration": 131880900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Retrieve_The_Specific_Column_Count_Of_The_First_webtable()"
 });
 formatter.result({
-  "duration": 164344501,
+  "duration": 185338200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Second_Time_Scolldown_On_The_Webpage()"
 });
 formatter.result({
-  "duration": 18775300,
+  "duration": 27232000,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Retrieve_The_Second_Webtable_Headers_Data()"
 });
 formatter.result({
-  "duration": 212888199,
+  "duration": 174445800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Retrieve_The_Second_Webtable_Entire_Data()"
 });
 formatter.result({
-  "duration": 366013900,
+  "duration": 322062700,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Retrieve_A_Single_Data_From_Second_webtable()"
 });
 formatter.result({
-  "duration": 47473900,
+  "duration": 543467500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Retrieve_The_Entire_Column_Count_Of_The_Second_webtable()"
 });
 formatter.result({
-  "duration": 19273901,
+  "duration": 37565300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Retrieve_The_Entire_Row_Count_Of_The_Second_webtable()"
 });
 formatter.result({
-  "duration": 35032300,
+  "duration": 25819900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Retrieve_The_Entire_Data_Count_Of_The_Second_webtable()"
 });
 formatter.result({
-  "duration": 25132000,
+  "duration": 26736800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Retrieve_The_Specific_Row_Count_Of_The_Second_webtable()"
 });
 formatter.result({
-  "duration": 182437299,
+  "duration": 156655500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Retrieve_The_Specific_Column_Count_Of_The_Second_webtable_and_the_User_Navigates_To_The_Module()"
 });
 formatter.result({
-  "duration": 121079600,
+  "duration": 99227900,
   "status": "passed"
 });
 formatter.scenario({
@@ -1249,147 +1249,147 @@ formatter.match({
   "location": "StepDefinitionClass.the_User_Enter_The_Text_In_The_First_Form_Field()"
 });
 formatter.result({
-  "duration": 143468099,
+  "duration": 190939900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Enter_The_Text_In_The_Second_Form_Field()"
 });
 formatter.result({
-  "duration": 160675901,
+  "duration": 209885700,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Enter_The_Text_In_The_Third_Form_Field()"
 });
 formatter.result({
-  "duration": 149329400,
+  "duration": 143752900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Hidden_Element_Link()"
 });
 formatter.result({
-  "duration": 7262922700,
+  "duration": 3396626300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Enter_The_First_Hidden_Element_Value_In_The_First_Hidden_Element_Field()"
 });
 formatter.result({
-  "duration": 161536700,
+  "duration": 139917600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_First_Hidden_Element_Check_Box()"
 });
 formatter.result({
-  "duration": 163494401,
+  "duration": 163374400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Toggle_Input_Box_Of_The_First_Time()"
 });
 formatter.result({
-  "duration": 108102700,
+  "duration": 97709400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Enter_The_Toggle_Input_Value_In_The_Second_Hidden_Element_Field()"
 });
 formatter.result({
-  "duration": 98006300,
+  "duration": 222503800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Toggle_Check_Box_Of_The_First_Time()"
 });
 formatter.result({
-  "duration": 107576599,
+  "duration": 166855400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Second_Hidden_Element_Check_Box()"
 });
 formatter.result({
-  "duration": 243455300,
+  "duration": 211407200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Toggle_Input_Box_Of_The_Second_Time()"
 });
 formatter.result({
-  "duration": 153830300,
+  "duration": 148641300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Toggle_Check_Box_Of_The_Second_Time()"
 });
 formatter.result({
-  "duration": 151057900,
+  "duration": 151334200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Scroll_Into_Webpage_Bottom_oOf_The_Second_Time()"
 });
 formatter.result({
-  "duration": 17664900,
+  "duration": 30776100,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Download_File_Link()"
 });
 formatter.result({
-  "duration": 3246624100,
+  "duration": 2337807900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Enter_The_Text_In_The_Download_Text_Field()"
 });
 formatter.result({
-  "duration": 171536000,
+  "duration": 160174900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Scroll_Into_Webpage_Bottom_oOf_The_Third_Time()"
 });
 formatter.result({
-  "duration": 19777400,
+  "duration": 7738200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Home_Link()"
 });
 formatter.result({
-  "duration": 2870154701,
+  "duration": 3597520000,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Enters_A_Name_In_The_Name_Field_Of_The_Second_Time()"
 });
 formatter.result({
-  "duration": 199888500,
+  "duration": 164376900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Enters_An_Email_In_The_Email_Field_Of_The_Second_Time()"
 });
 formatter.result({
-  "duration": 210654500,
+  "duration": 215320100,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Enters_A_Phone_Number_In_The_Phone_Number_Field_Of_The_Second_Time()"
 });
 formatter.result({
-  "duration": 151936299,
+  "duration": 175459600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Enters_An_Address_In_The_Address_Field_Of_The_Second_Time_and_The_User_Navigate_to_Window_Handling_Module()"
 });
 formatter.result({
-  "duration": 115315500,
+  "duration": 230260100,
   "status": "passed"
 });
 formatter.scenario({
@@ -1629,315 +1629,315 @@ formatter.match({
   "location": "StepDefinitionClass.the_User_Enter_The_Text_In_The_New_Tab_Text_Field()"
 });
 formatter.result({
-  "duration": 156325500,
+  "duration": 132095000,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_New_Tab_search_Box()"
 });
 formatter.result({
-  "duration": 288798800,
+  "duration": 173203600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_TestNG_Text_Of_The_Link()"
 });
 formatter.result({
-  "duration": 1017233000,
+  "duration": 500045300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Handle_The_Child_Window_For_TextNG()"
 });
 formatter.result({
-  "duration": 86924501,
+  "duration": 72459600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Scroll_Into_The_TestNG_Webpage_Bottom()"
 });
 formatter.result({
-  "duration": 635828201,
+  "duration": 639008600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Wikimedia_Foundation_Link_and_Close_The_Wikimedia_Foundation_Window()"
 });
 formatter.result({
-  "duration": 2775445900,
+  "duration": 969136200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Returns_To_Parent_Window_For_Window_Handling()"
 });
 formatter.result({
-  "duration": 17683500,
+  "duration": 24231500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_New_Tab_button_Of_The_First_Time()"
 });
 formatter.result({
-  "duration": 187162800,
+  "duration": 197533100,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_New_Tab_button_Of_The_Second_Time()"
 });
 formatter.result({
-  "duration": 141933001,
+  "duration": 173537700,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_New_Tab_button_Of_The_Third_Time()"
 });
 formatter.result({
-  "duration": 178960901,
+  "duration": 152586500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_New_Tab_button_Of_The_Fourth_Time()"
 });
 formatter.result({
-  "duration": 152734000,
+  "duration": 162776100,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_New_Tab_button_Of_The_Fifth_Time()"
 });
 formatter.result({
-  "duration": 158732500,
+  "duration": 206596600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_New_Tab_button_Of_The_Sixth_Time()"
 });
 formatter.result({
-  "duration": 166126501,
+  "duration": 179344200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_New_Tab_button_Of_The_Seventh_Time()"
 });
 formatter.result({
-  "duration": 156594699,
+  "duration": 203918400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_New_Tab_button_Of_The_Eighth_Time()"
 });
 formatter.result({
-  "duration": 210539700,
+  "duration": 168742000,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_New_Tab_button_Of_The_Nineth_Time()"
 });
 formatter.result({
-  "duration": 195232899,
+  "duration": 208292600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_New_Tab_button_Of_The_Tenth_Time()"
 });
 formatter.result({
-  "duration": 186468101,
+  "duration": 210998300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_New_Tab_button_Of_The_Eleventh_Time()"
 });
 formatter.result({
-  "duration": 112944499,
+  "duration": 233957400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_New_Tab_button_Of_The_Twelth_Time()"
 });
 formatter.result({
-  "duration": 152211900,
+  "duration": 243517400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_New_Tab_button_Of_The_Thirteenth_Time()"
 });
 formatter.result({
-  "duration": 199507900,
+  "duration": 187275500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_New_Tab_button_Of_The_Fourteenth_Time()"
 });
 formatter.result({
-  "duration": 235706600,
+  "duration": 178372800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_New_Tab_button_Of_The_Fifteenth_Time()"
 });
 formatter.result({
-  "duration": 256224999,
+  "duration": 188973900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Wants_Switch_To_The_Sixteenth_Window_and_Close_The_Sixteenth_Window()"
 });
 formatter.result({
-  "duration": 1545442700,
+  "duration": 2602412200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Wants_Switch_To_The_Fifteenth_Window_and_Close_The_Fifteenth_Window()"
 });
 formatter.result({
-  "duration": 81453001,
+  "duration": 82164900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Wants_Switch_To_The_Fourteenth_Window_and_Close_The_Fourteenth_Window()"
 });
 formatter.result({
-  "duration": 120328800,
+  "duration": 99109200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Wants_Switch_To_The_Thirteenth_Window_and_Close_The_Thirteenth_Window()"
 });
 formatter.result({
-  "duration": 102869400,
+  "duration": 181149000,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Wants_Switch_To_The_Twelth_Window_and_Close_The_Twelth_Window()"
 });
 formatter.result({
-  "duration": 81910400,
+  "duration": 107916900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Wants_Switch_To_The_Eleventh_Window_and_Close_The_Eleventh_Window()"
 });
 formatter.result({
-  "duration": 127339400,
+  "duration": 74866900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Wants_Switch_To_The_Tenth_Window_and_Close_The_Tenth_Window()"
 });
 formatter.result({
-  "duration": 112201099,
+  "duration": 61193600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Wants_Switch_To_The_Nineth_Window_and_Close_The_Nineth_Window()"
 });
 formatter.result({
-  "duration": 2414520199,
+  "duration": 54873800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Wants_Switch_To_The_Eighth_Window_and_Close_The_Eighth_Window()"
 });
 formatter.result({
-  "duration": 42126100,
+  "duration": 109149500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Wants_Switch_To_The_Seventh_Window_and_Close_The_Seventh_Window()"
 });
 formatter.result({
-  "duration": 80495900,
+  "duration": 84577700,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Wants_Switch_To_The_Sixth_Window_and_Close_The_Sixth_Window()"
 });
 formatter.result({
-  "duration": 106708100,
+  "duration": 90599100,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Wants_Switch_To_The_Fifth_Window_and_Close_The_Fifth_Window()"
 });
 formatter.result({
-  "duration": 110775801,
+  "duration": 90659000,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Wants_Switch_To_The_Fourth_Window_and_Close_The_Fourth_Window()"
 });
 formatter.result({
-  "duration": 119016100,
+  "duration": 92180000,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Wants_Switch_To_The_Third_Window_and_Close_The_Third_Window()"
 });
 formatter.result({
-  "duration": 95658700,
+  "duration": 114087400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Wants_Switch_To_The_Second_Window_and_Close_The_Second_Window()"
 });
 formatter.result({
-  "duration": 15530400,
+  "duration": 8715300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Wants_Switch_To_The_First_Window_and_Close_The_First_Window()"
 });
 formatter.result({
-  "duration": 61277400,
+  "duration": 63487600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Wants_Switch_To_The_Current_Parent_Window()"
 });
 formatter.result({
-  "duration": 24742700,
+  "duration": 24062600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Multiple_Window_button()"
 });
 formatter.result({
-  "duration": 268326299,
+  "duration": 304320900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Switch_To_First_Child_Window_and_Maximize_The_First_Child_Window()"
 });
 formatter.result({
-  "duration": 1450439101,
+  "duration": 1354352800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Close_The_First_Child_Window_Browser()"
 });
 formatter.result({
-  "duration": 212611899,
+  "duration": 240749400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Switch_To_Second_Child_Window_and_Maximize_The_Second_Child_Window()"
 });
 formatter.result({
-  "duration": 60406100,
+  "duration": 68123900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_About_Dropdown_button_and_Close_The_Second_Child_Window()"
 });
 formatter.result({
-  "duration": 250960800,
+  "duration": 254273800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Returns_The_Current_Parent_Window_and_The_User_Navigate_To_Alert_Module()"
 });
 formatter.result({
-  "duration": 12744000,
+  "duration": 14018900,
   "status": "passed"
 });
 formatter.scenario({
@@ -2042,126 +2042,126 @@ formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Simple_Alert_Box_button()"
 });
 formatter.result({
-  "duration": 114605800,
+  "duration": 100846800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Handle_The_Simple_Alert_Using_Accept_Method()"
 });
 formatter.result({
-  "duration": 20219600,
+  "duration": 10434200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Confirm_Alert_Box_button()"
 });
 formatter.result({
-  "duration": 182935000,
+  "duration": 118217700,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Handle_The_Confirm_Alert_Using_Accept_Method()"
 });
 formatter.result({
-  "duration": 15775300,
+  "duration": 6385200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Prompt_Alert_Box_button()"
 });
 formatter.result({
-  "duration": 156859500,
+  "duration": 115202600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Handle_The_Prompt_Alert_Using_Accept_Method()"
 });
 formatter.result({
-  "duration": 38922200,
+  "duration": 37561400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Simple_Alert_Box_button_Of_The_Second_Time()"
 });
 formatter.result({
-  "duration": 142105200,
+  "duration": 121292200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Handle_The_Simple_Alert_Using_Accept_Method_Of_The_Second_Time()"
 });
 formatter.result({
-  "duration": 11953100,
+  "duration": 13149500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Confirm_Alert_Box_button_Of_The_Second_Time()"
 });
 formatter.result({
-  "duration": 168517600,
+  "duration": 99949800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Handle_The_Confirm_Alert_Using_Dismiss_Method()"
 });
 formatter.result({
-  "duration": 21980500,
+  "duration": 21385700,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Prompt_Alert_Box_button_Of_The_Second_Time()"
 });
 formatter.result({
-  "duration": 232252801,
+  "duration": 123670700,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Handle_The_Prompt_Alert_Using_Dismiss_Method_Of_The_Second_Time()"
 });
 formatter.result({
-  "duration": 39076901,
+  "duration": 41482600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Simple_Alert_Box_button_Of_The_Third_Time()"
 });
 formatter.result({
-  "duration": 227286200,
+  "duration": 108308100,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Handle_The_Simple_Alert_Using_Accept_Method_Of_The_Third_Time()"
 });
 formatter.result({
-  "duration": 14973500,
+  "duration": 10993300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Confirm_Alert_Box_button_Of_The_Third_Time()"
 });
 formatter.result({
-  "duration": 183307499,
+  "duration": 126577100,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Handle_The_Confirm_Alert_Using_Dissmiss_Method_Of_The_Third_Time()"
 });
 formatter.result({
-  "duration": 5424801,
+  "duration": 20738500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Prompt_Alert_Box_button_Of_The_Third_Time()"
 });
 formatter.result({
-  "duration": 175687000,
+  "duration": 129723200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Handle_The_Prompt_Alert_Using_Dismiss_Method_Of_The_Third_Time()"
 });
 formatter.result({
-  "duration": 31979900,
+  "duration": 27520400,
   "status": "passed"
 });
 formatter.scenario({
@@ -2241,92 +2241,84 @@ formatter.match({
   "location": "StepDefinitionClass.the_User_Perform_The_Mouse_Hover_Over_The_Point_Me_button()"
 });
 formatter.result({
-  "duration": 191713800,
+  "duration": 181811300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Right_Click_The_Laptop_button()"
 });
 formatter.result({
-  "duration": 226882599,
+  "duration": 213857700,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Open_New_Tab_button_Using_Robot_Class()"
 });
 formatter.result({
-  "duration": 384593899,
+  "duration": 160734800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Handle_The_New_Tab_For_Enter_The_Text_Fields()"
 });
 formatter.result({
-  "duration": 207798200,
-  "status": "passed"
+  "duration": 39849400,
+  "error_message": "java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length 1\r\n\tat java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)\r\n\tat java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)\r\n\tat java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:248)\r\n\tat java.base/java.util.Objects.checkIndex(Objects.java:372)\r\n\tat java.base/java.util.ArrayList.get(ArrayList.java:459)\r\n\tat org.testUtilities.DriverHelper.handleTheWindow(DriverHelper.java:504)\r\n\tat org.blogspot.stepDefinition.StepDefinitionClass.the_User_Handle_The_New_Tab_For_Enter_The_Text_Fields(StepDefinitionClass.java:970)\r\n\tat ✽.And the User Handle The New Tab For Enter The Text Fields(Blogspot.feature:211)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Enter_The_Name_In_The_Name_Field_Of_The_New_Tab()"
 });
 formatter.result({
-  "duration": 3123204200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Enter_The_Email_In_The_Email_Field_Of_The_New_Tab()"
 });
 formatter.result({
-  "duration": 181394600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Enter_The_Phone_Number_In_The_Phone_Number_Field_Of_The_New_Tab()"
 });
 formatter.result({
-  "duration": 188063199,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Enter_The_Address_In_The_Address_Field_Of_The_New_Tab()"
 });
 formatter.result({
-  "duration": 179922800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Male_Radio_button_Of_The_New_Tab()"
 });
 formatter.result({
-  "duration": 207355000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Friday_Check_Box_Of_The_New_Tab()"
 });
 formatter.result({
-  "duration": 199914500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Close_The_New_Tab_and_Switch_To_Parrent_Window()"
 });
 formatter.result({
-  "duration": 44933400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Double_Click_The_Second_Field_Using_Actions_Class()"
 });
 formatter.result({
-  "duration": 217469600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Perform_The_Drag_and_Drop_Using_Actions_Class_and_The_User_Navigate_To_Scrolling_Dropdown_Module()"
 });
 formatter.result({
-  "duration": 430405901,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 224,
@@ -2570,322 +2562,322 @@ formatter.match({
   "location": "StepDefinitionClass.the_User_Double_Click_The_First_Svg_Element_Using_Actions_Class()"
 });
 formatter.result({
-  "duration": 214613800,
+  "duration": 201330600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Double_Click_The_Second_Svg_Element_Using_Actions_Class()"
 });
 formatter.result({
-  "duration": 211885201,
+  "duration": 187732300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Double_Click_The_Third_Svg_Element_Using_Actions_Class()"
 });
 formatter.result({
-  "duration": 172042200,
+  "duration": 231210200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Scroll_On_The_WebPage_For_Scrolling_Dropdown()"
 });
 formatter.result({
-  "duration": 33330699,
+  "duration": 27313600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Scrolling_Dropdown_Of_The_First_Time()"
 });
 formatter.result({
-  "duration": 196072600,
+  "duration": 192281400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_First_Item_From_The_Dropdown()"
 });
 formatter.result({
-  "duration": 345256600,
+  "duration": 172742700,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Scrolling_Dropdown_Of_The_Second_Time()"
 });
 formatter.result({
-  "duration": 226907601,
+  "duration": 126832200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Fifth_Item_From_The_Dropdown()"
 });
 formatter.result({
-  "duration": 243834400,
+  "duration": 279987900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Scrolling_Dropdown_Of_The_Third_Time()"
 });
 formatter.result({
-  "duration": 124797600,
+  "duration": 128429200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Tenth_Item_From_The_Dropdown()"
 });
 formatter.result({
-  "duration": 295825000,
+  "duration": 306956400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Scrolling_Dropdown_Of_The_Fourth_Time()"
 });
 formatter.result({
-  "duration": 115720400,
+  "duration": 145145800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Fifteenth_Item_From_The_Dropdown()"
 });
 formatter.result({
-  "duration": 459831900,
+  "duration": 397876900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Scrolling_Dropdown_Of_The_Fifth_Time()"
 });
 formatter.result({
-  "duration": 149027399,
+  "duration": 131253700,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Twentyth_Item_From_The_Dropdown()"
 });
 formatter.result({
-  "duration": 396394700,
+  "duration": 510828900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Scrolling_Dropdown_Of_The_Sixth_Time()"
 });
 formatter.result({
-  "duration": 127080000,
+  "duration": 174618400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Twenty_Fifth_Item_From_The_Dropdown()"
 });
 formatter.result({
-  "duration": 505471899,
+  "duration": 491901500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Scrolling_Dropdown_Of_The_Seventh_Time()"
 });
 formatter.result({
-  "duration": 155560699,
+  "duration": 142623200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Thirty_Item_From_The_Dropdown()"
 });
 formatter.result({
-  "duration": 498729401,
+  "duration": 561701700,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Scrolling_Dropdown_Of_The_Eighth_Time()"
 });
 formatter.result({
-  "duration": 136866600,
+  "duration": 173845300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Thirty_Fifth_Item_From_The_Dropdown()"
 });
 formatter.result({
-  "duration": 677996999,
+  "duration": 732358200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Scrolling_Dropdown_Of_The_Nineth_Time()"
 });
 formatter.result({
-  "duration": 91982601,
+  "duration": 148302500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Fourty_Item_From_The_Dropdown()"
 });
 formatter.result({
-  "duration": 577257700,
+  "duration": 731652200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Scrolling_Dropdown_Of_The_Tenth_Time()"
 });
 formatter.result({
-  "duration": 127086000,
+  "duration": 173510500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Fourty_Five_Item_From_The_Dropdown()"
 });
 formatter.result({
-  "duration": 761938700,
+  "duration": 771243800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Scrolling_Dropdown_Of_The_Eleventh_Time()"
 });
 formatter.result({
-  "duration": 118768700,
+  "duration": 212553200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Fifty_Item_From_The_Dropdown()"
 });
 formatter.result({
-  "duration": 847225501,
+  "duration": 885161100,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Scrolling_Dropdown_Of_The_Twelth_Time()"
 });
 formatter.result({
-  "duration": 133708600,
+  "duration": 138119300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Fifty_Five_Item_From_The_Dropdown()"
 });
 formatter.result({
-  "duration": 679368900,
+  "duration": 773312800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Scrolling_Dropdown_Of_The_Thirteenth_Time()"
 });
 formatter.result({
-  "duration": 151037399,
+  "duration": 169914400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Sixty_Item_From_The_Dropdown()"
 });
 formatter.result({
-  "duration": 933603500,
+  "duration": 1088270500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Scrolling_Dropdown_Of_The_Fourteenth_Time()"
 });
 formatter.result({
-  "duration": 148681301,
+  "duration": 155164500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Sixty_Six_Item_From_The_Dropdown()"
 });
 formatter.result({
-  "duration": 916126501,
+  "duration": 1152805900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Scrolling_Dropdown_Of_The_Fifteenth_Time()"
 });
 formatter.result({
-  "duration": 133510300,
+  "duration": 185442900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Seventy_Item_From_The_Dropdown()"
 });
 formatter.result({
-  "duration": 1178045400,
+  "duration": 1230857300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Scrolling_Dropdown_Of_The_Sixteenth_Time()"
 });
 formatter.result({
-  "duration": 164376000,
+  "duration": 133014200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Seventy_Five_Item_From_The_Dropdown()"
 });
 formatter.result({
-  "duration": 993242000,
+  "duration": 1223015200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Scrolling_Dropdown_Of_The_Seventeenth_Time()"
 });
 formatter.result({
-  "duration": 152927801,
+  "duration": 170342800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Eighty_Item_From_The_Dropdown()"
 });
 formatter.result({
-  "duration": 1461705700,
+  "duration": 1398226800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Scrolling_Dropdown_Of_The_Eighteenth_Time()"
 });
 formatter.result({
-  "duration": 172802001,
+  "duration": 189041900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Eighty_Five_Item_From_The_Dropdown()"
 });
 formatter.result({
-  "duration": 1250120900,
+  "duration": 1332508900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Scrolling_Dropdown_Of_The_Nineteenth_Time()"
 });
 formatter.result({
-  "duration": 153309500,
+  "duration": 183749200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Ninety_Item_From_The_Dropdown()"
 });
 formatter.result({
-  "duration": 1170812500,
+  "duration": 1377539700,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Scrolling_Dropdown_Of_The_Twenteeth_Time()"
 });
 formatter.result({
-  "duration": 78739099,
+  "duration": 150551600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Ninety_Five_Item_From_The_Dropdown()"
 });
 formatter.result({
-  "duration": 1206995700,
+  "duration": 1561044200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Click_The_Scrolling_Dropdown_Of_The_Twenty_First_Time()"
 });
 formatter.result({
-  "duration": 102922899,
+  "duration": 129476000,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionClass.the_User_Select_The_Hundred_Item_From_The_Dropdown()"
 });
 formatter.result({
-  "duration": 1373748699,
+  "duration": 1476622000,
   "status": "passed"
 });
 });

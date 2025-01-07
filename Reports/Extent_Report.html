@@ -33,7 +33,8 @@
 		<!-- slideout menu -->
 		<ul id='slide-out' class='side-nav fixed hide-on-med-and-down'>
 			<li class='waves-effect active'><a href='#!' view='test-view' onclick="configureView(0);chartsView('test');"><i class='material-icons'>dashboard</i></a></li>
-						<li class='waves-effect'><a href='#!' onclick="configureView(-1);chartsView('dashboard');" view='dashboard-view'><i class='material-icons'>track_changes</i></i></a></li>
+						<li class='waves-effect'><a href='#!' view='exception-view' onclick="configureView(2)"><i class='material-icons'>bug_report</i></a></li>
+			<li class='waves-effect'><a href='#!' onclick="configureView(-1);chartsView('dashboard');" view='dashboard-view'><i class='material-icons'>track_changes</i></i></a></li>
 		</ul>
 
 		<!-- report name -->
@@ -46,7 +47,7 @@
 		<ul id='nav-mobile' class='right hide-on-med-and-down nav-right'>
 			<li>
                 <a href='#!'>
-                    <span class='label suite-start-time blue darken-3'>Jan 6, 2025 12:13:09 AM</span>
+                    <span class='label suite-start-time blue darken-3'>Jan 7, 2025 10:34:44 PM</span>
 				</a>
 			</li>
 			<li>
@@ -72,6 +73,8 @@
 				</a>
 				<ul id='tests-toggle' class='dropdown-content'>
 											<li status='pass'><a href='#!'>Pass <i class='material-icons green-text'>check_circle</i></a></li>
+						<li status='fail'><a href='#!'>Fail <i class='material-icons red-text'>cancel</i></a></li>
+						<li status='skip'><a href='#!'>Skip <i class='material-icons cyan-text'>redo</i></a></li>
 					<li class='divider'></li>
 					<li status='clear' clear='true'><a href='#!'>Clear Filters <i class='material-icons'>clear</i></a></li>
 				</ul>
@@ -122,10 +125,10 @@
 					<canvas id='parent-analysis' width='100' height='80'></canvas>
 				</div>
 				<div class='block text-small'>
-					<span class='tooltipped' data-position='top' data-tooltip='100%'><span class='strong'>1</span> feature(s) passed</span>
+					<span class='tooltipped' data-position='top' data-tooltip='0%'><span class='strong'>0</span> feature(s) passed</span>
 				</div>
 				<div class='block text-small'>
-					<span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> feature(s) failed, <span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> others
+					<span class='strong tooltipped' data-position='top' data-tooltip='100%'>1</span> feature(s) failed, <span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> others
 				</div>
 			</div>
 		</div>
@@ -137,10 +140,10 @@
 					<canvas id='child-analysis' width='100' height='80'></canvas>
 				</div>
 				<div class='block text-small'>
-					<span class='tooltipped' data-position='top' data-tooltip='100%'><span class='strong'>10</span> scenario(s) passed</span>
+					<span class='tooltipped' data-position='top' data-tooltip='90%'><span class='strong'>9</span> scenario(s) passed</span>
 				</div>
 				<div class='block text-small'>
-					<span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> scenario(s) failed, <span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> others
+					<span class='strong tooltipped' data-position='top' data-tooltip='10%'>1</span> scenario(s) failed, <span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> others
 				</div>
 			</div>
 		</div>
@@ -152,10 +155,10 @@
 					<canvas id='grandchild-analysis' width='100' height='80'></canvas>
 				</div>
 				<div class='block text-small'>
-					<span class='tooltipped' data-position='top' data-tooltip='100%'><span class='strong'>233</span> step(s) passed</span>
+					<span class='tooltipped' data-position='top' data-tooltip='95.708%'><span class='strong'>223</span> step(s) passed</span>
 				</div>
 				<div class='block text-small'>
-					<span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> step(s) failed, <span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> others
+					<span class='strong tooltipped' data-position='top' data-tooltip='0.429%'>1</span> step(s) failed, <span class='strong tooltipped' data-position='top' data-tooltip='3.863%'>9</span> others
 				</div>
 			</div>
 		</div>
@@ -169,15 +172,15 @@
 			<ul id='test-collection' class='test-collection'>
 				
 				
-				<li class='test displayed active has-leaf pass' status='pass' bdd='true' test-id='1'>
+				<li class='test displayed active has-leaf fail' status='fail' bdd='true' test-id='1'>
 					<div class='test-heading'>
 						<span class='test-name'>Validate The Blogspot Application</span>
-						<span class='test-time'>Jan 6, 2025 12:13:09 AM</span>
-						<span class='test-status right pass'>pass</span>
+						<span class='test-time'>Jan 7, 2025 10:34:44 PM</span>
+						<span class='test-status right fail'>fail</span>
 					</div>
 					<div class='test-content hide'>
 <div class='scenario node' test-id='2' status='pass'>
-	<span class='duration right label'>0h 1m 22s+579ms</span>
+	<span class='duration right label'>0h 1m 21s+579ms</span>
 	<div class='desc'>
 		<b>Scenario</b>
 		<span class="desc-text">User Want To Collect The All Tags Count And Text Of The Links From Blogspot DOM Structure</span>
@@ -386,7 +389,7 @@
 	</ul>
 </div>
 <div class='scenario node' test-id='28' status='pass'>
-	<span class='duration right label'>0h 0m 1s+784ms</span>
+	<span class='duration right label'>0h 0m 1s+672ms</span>
 	<div class='desc'>
 		<b>Scenario</b>
 		<span class="desc-text">The User Want To Intract With Text Field Module</span>
@@ -523,7 +526,7 @@
 	</ul>
 </div>
 <div class='scenario node' test-id='45' status='pass'>
-	<span class='duration right label'>0h 0m 2s+407ms</span>
+	<span class='duration right label'>0h 0m 2s+283ms</span>
 	<div class='desc'>
 		<b>Scenario</b>
 		<span class="desc-text">The User Want To Intract With Dropdown Module</span>
@@ -612,7 +615,7 @@
 	</ul>
 </div>
 <div class='scenario node' test-id='56' status='pass'>
-	<span class='duration right label'>0h 0m 19s+212ms</span>
+	<span class='duration right label'>0h 0m 6s+669ms</span>
 	<div class='desc'>
 		<b>Scenario</b>
 		<span class="desc-text">User Want To Intract With Datepicker Module</span>
@@ -757,7 +760,7 @@
 	</ul>
 </div>
 <div class='scenario node' test-id='74' status='pass'>
-	<span class='duration right label'>0h 0m 2s+786ms</span>
+	<span class='duration right label'>0h 0m 3s+435ms</span>
 	<div class='desc'>
 		<b>Scenario</b>
 		<span class="desc-text">The User Want To Intract With Webtable Module</span>
@@ -942,7 +945,7 @@
 	</ul>
 </div>
 <div class='scenario node' test-id='97' status='pass'>
-	<span class='duration right label'>0h 0m 15s+957ms</span>
+	<span class='duration right label'>0h 0m 12s+217ms</span>
 	<div class='desc'>
 		<b>Scenario</b>
 		<span class="desc-text">The User Want To Intract With Form Module</span>
@@ -1119,7 +1122,7 @@
 	</ul>
 </div>
 <div class='scenario node' test-id='119' status='pass'>
-	<span class='duration right label'>0h 0m 15s+242ms</span>
+	<span class='duration right label'>0h 0m 11s+673ms</span>
 	<div class='desc'>
 		<b>Scenario</b>
 		<span class="desc-text">The User Want To Intract With Window Handling Module</span>
@@ -1488,7 +1491,7 @@
 	</ul>
 </div>
 <div class='scenario node' test-id='165' status='pass'>
-	<span class='duration right label'>0h 0m 1s+837ms</span>
+	<span class='duration right label'>0h 0m 1s+270ms</span>
 	<div class='desc'>
 		<b>Scenario</b>
 		<span class="desc-text">The User Want To Intract With Alert Module</span>
@@ -1640,8 +1643,8 @@
 		</li>
 	</ul>
 </div>
-<div class='scenario node' test-id='184' status='pass'>
-	<span class='duration right label'>0h 0m 5s+818ms</span>
+<div class='scenario node' test-id='184' status='fail'>
+	<span class='duration right label'>0h 0m 0s+663ms</span>
 	<div class='desc'>
 		<b>Scenario</b>
 		<span class="desc-text">The User Want To Intract With Actions Module</span>
@@ -1671,90 +1674,99 @@
 				<div class='pre'>passed</div>
 			
 		</li>
-		<li test-id='188' class='node and pass' status='pass'>
+		<li test-id='188' class='node and fail' status='fail'>
 			
 			<b>And</b>
 			
 			<span class="bdd-step-name">And the User Handle The New Tab For Enter The Text Fields</span>
-				<div class='pre'>passed</div>
+				<div class='pre'><pre>java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:248)
+	at java.base/java.util.Objects.checkIndex(Objects.java:372)
+	at java.base/java.util.ArrayList.get(ArrayList.java:459)
+	at org.testUtilities.DriverHelper.handleTheWindow(DriverHelper.java:504)
+	at org.blogspot.stepDefinition.StepDefinitionClass.the_User_Handle_The_New_Tab_For_Enter_The_Text_Fields(StepDefinitionClass.java:970)
+	at ✽.And the User Handle The New Tab For Enter The Text Fields(Blogspot.feature:211)
+</pre></div>
 			
 		</li>
-		<li test-id='189' class='node and pass' status='pass'>
+		<li test-id='189' class='node and skip' status='skip'>
 			
 			<b>And</b>
 			
 			<span class="bdd-step-name">And the User Enter The Name In The Name Field Of The New Tab</span>
-				<div class='pre'>passed</div>
+				<div class='pre'>skipped</div>
 			
 		</li>
-		<li test-id='190' class='node and pass' status='pass'>
+		<li test-id='190' class='node and skip' status='skip'>
 			
 			<b>And</b>
 			
 			<span class="bdd-step-name">And the User Enter The Email In The Email Field Of The New Tab</span>
-				<div class='pre'>passed</div>
+				<div class='pre'>skipped</div>
 			
 		</li>
-		<li test-id='191' class='node and pass' status='pass'>
+		<li test-id='191' class='node and skip' status='skip'>
 			
 			<b>And</b>
 			
 			<span class="bdd-step-name">And the User Enter The Phone Number In The Phone Number Field Of The New Tab</span>
-				<div class='pre'>passed</div>
+				<div class='pre'>skipped</div>
 			
 		</li>
-		<li test-id='192' class='node and pass' status='pass'>
+		<li test-id='192' class='node and skip' status='skip'>
 			
 			<b>And</b>
 			
 			<span class="bdd-step-name">And the User Enter The Address In The Address Field Of The New Tab</span>
-				<div class='pre'>passed</div>
+				<div class='pre'>skipped</div>
 			
 		</li>
-		<li test-id='193' class='node and pass' status='pass'>
+		<li test-id='193' class='node and skip' status='skip'>
 			
 			<b>And</b>
 			
 			<span class="bdd-step-name">And the User Click The Male Radio button Of The New Tab</span>
-				<div class='pre'>passed</div>
+				<div class='pre'>skipped</div>
 			
 		</li>
-		<li test-id='194' class='node and pass' status='pass'>
+		<li test-id='194' class='node and skip' status='skip'>
 			
 			<b>And</b>
 			
 			<span class="bdd-step-name">And the User Click The Friday Check Box Of The New Tab</span>
-				<div class='pre'>passed</div>
+				<div class='pre'>skipped</div>
 			
 		</li>
-		<li test-id='195' class='node and pass' status='pass'>
+		<li test-id='195' class='node and skip' status='skip'>
 			
 			<b>And</b>
 			
 			<span class="bdd-step-name">And the User Close The New Tab and Switch To Parrent Window</span>
-				<div class='pre'>passed</div>
+				<div class='pre'>skipped</div>
 			
 		</li>
-		<li test-id='196' class='node and pass' status='pass'>
+		<li test-id='196' class='node and skip' status='skip'>
 			
 			<b>And</b>
 			
 			<span class="bdd-step-name">And the User Double Click The Second Field Using Actions Class</span>
-				<div class='pre'>passed</div>
+				<div class='pre'>skipped</div>
 			
 		</li>
-		<li test-id='197' class='node then pass' status='pass'>
+		<li test-id='197' class='node then skip' status='skip'>
 			
 			<b>Then</b>
 			
 			<span class="bdd-step-name">Then the User Perform The Drag and Drop Using Actions Class and The User Navigate To Scrolling Dropdown Module</span>
-				<div class='pre'>passed</div>
+				<div class='pre'>skipped</div>
 			
 		</li>
 	</ul>
 </div>
 <div class='scenario node' test-id='198' status='pass'>
-	<span class='duration right label'>0h 0m 20s+433ms</span>
+	<span class='duration right label'>0h 0m 22s+548ms</span>
 	<div class='desc'>
 		<b>Scenario</b>
 		<span class="desc-text">The User Want To Intract With Scrolling Dropdown Module</span>
@@ -2158,6 +2170,76 @@
 </div>
 <!-- test view -->
 <!-- category view -->
+<div id='exception-view' class='view hide'>
+
+    <section id='controls'>
+        <div class='controls grey lighten-4'>
+            <!-- search -->
+            <div class='chip transparent' alt='Search Tests' title='Search Tests'>
+                <a href="#" class='search-div'>
+                    <i class='material-icons'>search</i> Search
+                </a>
+
+                <div class='input-field left hide'>
+                    <input id='search-tests' type='text' class='validate browser-default' placeholder='Search Tests...'>
+                </div>
+
+            </div>
+            <!-- search -->
+        </div>
+    </section>
+
+    <div class='subview-left left'>
+
+        <div class='view-summary'>
+            <h5>Exceptions</h3>
+                <ul id='exception-collection' class='exception-collection'>
+
+                        <li class='exception displayed active'>
+                            <div class='exception-heading'>
+                                <span class='exception-name'>java.lang.IndexOutOfBoundsException</span>
+                                <span class='exception-count right'><span class='label red lighten-1 white-text'>1</span></span>
+                            </div>
+                            <div class='exception-content hide'>
+                                <div class='exception-tests'>
+                                    <table class='bordered table-results'>
+                                        <thead>
+                                        <tr>
+                                            <th>Timestamp</th>
+                                            <th>TestName</th>
+                                            <th>Status</th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                                    <tr>
+                                                        <td>Jan 7, 2025 10:36:45 PM</td>
+                                                        <td class='linked' test-id='188'>Validate The Blogspot Application.The User Want To Intract With Actions Module.And the User Handle The New Tab For Enter The Text Fields</td>
+                                                        <td><pre><pre>java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:248)
+	at java.base/java.util.Objects.checkIndex(Objects.java:372)
+	at java.base/java.util.ArrayList.get(ArrayList.java:459)
+	at org.testUtilities.DriverHelper.handleTheWindow(DriverHelper.java:504)
+	at org.blogspot.stepDefinition.StepDefinitionClass.the_User_Handle_The_New_Tab_For_Enter_The_Text_Fields(StepDefinitionClass.java:970)
+	at ✽.And the User Handle The New Tab For Enter The Text Fields(Blogspot.feature:211)
+</pre></pre></td>
+                                                    </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </li>
+                </ul>
+        </div>
+    </div>
+
+    <div class='subview-right left'>
+        <div class='view-summary'>
+            <h5 class='exception-name'></h5>
+        </div>
+    </div>
+</div>
 <!-- exception view -->
 <div id='dashboard-view' class='view hide'>
 	<div class='card-panel transparent np-v'>
@@ -2185,19 +2267,19 @@
 			<div class='col s2'>
 				<div class='card-panel r'>
 					Start
-					<div class='panel-lead'>Jan 6, 2025 12:13:09 AM</div>
+					<div class='panel-lead'>Jan 7, 2025 10:34:44 PM</div>
 				</div>
 			</div>
 			<div class='col s2'>
 				<div class='card-panel r'>
 			 		End
-			 		<div class='panel-lead'>Jan 6, 2025 12:15:57 AM</div>
+			 		<div class='panel-lead'>Jan 7, 2025 10:37:08 PM</div>
 				</div>
 			</div>
 			<div class='col s2'>
 				<div class='card-panel r'>
 					Time Taken
-					<div class='panel-lead'>168,323ms</div>
+					<div class='panel-lead'>144,223ms</div>
 				</div>
 			</div>
 		</div>
@@ -2210,31 +2292,31 @@
 
 		<script>
 			var statusGroup = {
-				passParent: 1,
-				failParent: 0,
+				passParent: 0,
+				failParent: 1,
 				fatalParent: 0,
 				errorParent: 0,
 				warningParent: 0,
 				skipParent: 0,
-				exceptionsParent: 0,
+				exceptionsParent: 1,
 				
-				passChild: 10,
-				failChild: 0,
+				passChild: 9,
+				failChild: 1,
 				fatalChild: 0,
 				errorChild: 0,
 				warningChild: 0,
 				skipChild: 0,
 				infoChild: 0,
-				exceptionsChild: 0,
+				exceptionsChild: 1,
 				
-				passGrandChild: 233,
-				failGrandChild: 0,
+				passGrandChild: 223,
+				failGrandChild: 1,
 				fatalGrandChild: 0,
 				errorGrandChild: 0,
 				warningGrandChild: 0,
-				skipGrandChild: 0,
+				skipGrandChild: 9,
 				infoGrandChild: 0,
-				exceptionsGrandChild: 0,
+				exceptionsGrandChild: 10,
 			};
 		</script>
 		

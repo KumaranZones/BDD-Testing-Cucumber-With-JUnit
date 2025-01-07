@@ -968,6 +968,8 @@ public class StepDefinitionClass extends BaseClass {
 	@When("^the User Handle The New Tab For Enter The Text Fields$")
 	public void the_User_Handle_The_New_Tab_For_Enter_The_Text_Fields() throws Throwable {
 		DriverHelper.handleTheWindow(1);
+		DriverHelper.driverClose();
+		DriverHelper.handleTheWindow(0);
 	}
 
 	@When("^the User Enter The Name In The Name Field Of The New Tab$")
